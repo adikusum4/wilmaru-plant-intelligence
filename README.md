@@ -1,4 +1,4 @@
-# 🏭 Wilmar Plant Intelligence
+# 🏭 Wilmaru Plant Intelligence
 ### Full-Stack Multi-Agent AI System for Palm Oil Manufacturing Operations
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
@@ -217,8 +217,7 @@ wilmar-plant-intelligence/
 
 ## 📬 Kontak
 
-- 📧 Email: [your.email@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
+- 📧 Email: [xian.adikusuma@gmail.com]
 
 ---
 
